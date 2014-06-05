@@ -1,4 +1,4 @@
-JerseyHibernate
+Jersey Hibernate 4.0
 ===============
 
-Best combination of jersey, jaxb, hibernate4 and spring!
+
