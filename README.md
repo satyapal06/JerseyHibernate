@@ -1,4 +1,4 @@
-Jersey Hibernate 4.0
+Jersey and Hibernate 4.0
 ===============
 
 
